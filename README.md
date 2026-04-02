@@ -9,12 +9,9 @@ The model was trained and evaluated using the CIFAR-10 dataset, and different re
 ---
 
 ## ⚠️ Important Note Regarding Model Weights (.pth)
+the model weight file (model_path.pth) store in github.
 
-Due to file size limitations on GitHub (maximum 25MB for direct uploads), the trained model weights file (`cnn_cifar10_best.pth`) may exceed the allowed size.
 
-To access the trained model weights:
-
-* A Google Drive link has been provided inside the `Model_weight.txt` file.
 * The file can be downloaded securely and loaded into the notebook for inference or evaluation.
 
 ---
